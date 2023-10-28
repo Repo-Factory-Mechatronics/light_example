@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "chrono": "cpp"
+    },
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**",
+        "/opt/**",
+        "/usr/**"
+    ],
+    "C_Cpp.errorSquiggles": "enabled",
+    
+}
